@@ -1,0 +1,7 @@
+Experiments,Total Trans,Trans with Peaks,Total Peaks,Coding trans,Coding w/ peaks,Total peaks in Coding,Nnocoding trans,Nnocoding w/ peaks,Total peaks in noncoding
+Human Liver Carcinoma,25300,6713,11702.0,19353,6467,11363.0,5946,246,339.0
+Heatshock,25300,5193,8777.0,19353,5049,8572.0,5946,144,205.0
+UV,25300,6627,12029.0,19353,6376,11681.0,5946,251,348.0
+Hepatocyte GF,25300,5129,8392.0,19353,4943,8142.0,5946,186,250.0
+Interferons,25300,3284,4801.0,19353,3199,4692.0,5946,85,109.0
+Brain,25300,693,849.0,19353,676,830.0,5946,17,19.0
